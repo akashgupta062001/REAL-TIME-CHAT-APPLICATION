@@ -56,3 +56,7 @@ This chat application can be used as a base model for:
 
 It showcases practical implementation of core real-time communication concepts, responsive UI development using React, and fundamental backend setup using Node.js.
 ---
+
+## OUTPUT
+
+<img width="1329" height="646" alt="Image" src="https://github.com/user-attachments/assets/db3d1b01-e974-428e-9567-42625d0b2ca2" />
